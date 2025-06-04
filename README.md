@@ -75,7 +75,7 @@ Açıklama: Türkiye genelinde adliyelerdeki donanımların envanter bilgilerini
 ## 📫 Bana Ulaş
 
 - 📧 E-posta: cesimerdem@hotmail.com  
-- 💼 <a href="https://www.linkedin.com/in/cesim-erdem-98a282224/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cesim-erdem-98a282224/) _(yeni sekmede açmak için sağ tıklayın veya Ctrl/Cmd + tıklayın)_
 - 🌐 <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">Portföy (yakında)</a>
 
 
