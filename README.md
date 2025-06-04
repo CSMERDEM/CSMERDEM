@@ -45,6 +45,22 @@
 ### 🔹 [Personel Uygulaması API](https://github.com/CSMERDEM/Personel-uygulamasi-Api)
 > Spring Boot ile hazırlanmış RESTful backend. PostgreSQL & JPA ile veri yönetimi.
 
+🏛️ Kurumsal Projelerim
+⚖️ SEGBİS - E-Duruşma Envanter Takip Sistemi
+Yıl: 2022 - 2023
+Kurum: T.C. Adalet Bakanlığı Bilgi İşlem Genel Müdürlüğü, Ankara
+Açıklama: SEGBİS ve E-Duruşma sistemlerinde kullanılan donanımların envanter takibi ve yönetimini sağlayan sistemin geliştirilmesi.
+
+📊 SEGBİS Cihazlarına İlişkin İstatistiksel Analiz ve Maliyet Hesaplama Modülü
+Yıl: 2023 - 2024
+Kurum: T.C. Adalet Bakanlığı Bilgi İşlem Genel Müdürlüğü, Ankara
+Açıklama: SEGBİS cihazları için arıza, kullanım, ve yenileme verilerine dayalı istatistiksel analizlerin ve maliyet hesaplamalarının yapıldığı modül.
+
+🛠️ Donanım Envanter Takip ve Arıza Süreç Yönetimi
+Yıl: 2022 - 2025
+Kurum: T.C. Adalet Bakanlığı Bilgi İşlem Genel Müdürlüğü, Ankara
+Açıklama: Türkiye genelinde adliyelerdeki donanımların envanter bilgilerinin takibi, arıza bildirimleri, onarım ve değiştirme süreçlerinin yönetimi için geliştirilen web tabanlı sistem.
+
 ---
 
 ## 📈 GitHub İstatistiklerim
