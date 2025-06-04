@@ -45,7 +45,7 @@
 ### 🔹 [Personel Uygulaması API](https://github.com/CSMERDEM/Personel-uygulamasi-Api)
 > Spring Boot ile hazırlanmış RESTful backend. PostgreSQL & JPA ile veri yönetimi.
 
-🏛️ Kurumsal Projelerim
+###🏛️ Kurumsal Projelerim
 ⚖️ SEGBİS - E-Duruşma Envanter Takip Sistemi
 Yıl: 2022 - 2023
 Kurum: T.C. Adalet Bakanlığı Bilgi İşlem Genel Müdürlüğü, Ankara
